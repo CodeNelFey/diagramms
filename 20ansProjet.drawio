@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="28.2.5">
+  <diagram name="Page-1" id="yJz6L19DGHNpV2pcc3J8">
+    <mxGraphModel dx="1911" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lyU7jDtLiYzWihQptVlC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lyU7jDtLiYzWihQptVlC-1" target="lyU7jDtLiYzWihQptVlC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lyU7jDtLiYzWihQptVlC-1" target="lyU7jDtLiYzWihQptVlC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lyU7jDtLiYzWihQptVlC-1" target="lyU7jDtLiYzWihQptVlC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lyU7jDtLiYzWihQptVlC-1" target="lyU7jDtLiYzWihQptVlC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lyU7jDtLiYzWihQptVlC-1" target="lyU7jDtLiYzWihQptVlC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lyU7jDtLiYzWihQptVlC-1" target="lyU7jDtLiYzWihQptVlC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-1" value="Organiser un anniversaire de 20 ans" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="80" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-2" value="Réserver la salle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lyU7jDtLiYzWihQptVlC-3" target="lyU7jDtLiYzWihQptVlC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-3" value="Inviter les personnes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-4" value="Acquisition de la déco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-5" value="Repas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-6" value="Animation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="623" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-12" value="Analyse des risques" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="801" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-15" value="100 euros&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-16" value="90 euros" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-17" value="100 euros&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-18" value="400 euros&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-19" value="200 euros&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-22" value="Récuperer les numéros des parents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyU7jDtLiYzWihQptVlC-24" value="Réserver la salle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
